@@ -1,0 +1,7 @@
+{
+  "pages": ["pages/index/index", "pages/payment/payment"],
+  "window": {
+    "navigationBarTitleText": "邻·生活"
+  },
+  "style": "v2"
+}

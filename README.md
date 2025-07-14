@@ -24,6 +24,9 @@
 - **管理后台**: React + Ant Design + ECharts
 - **状态管理**: 全局状态管理
 - **组件库**: 自定义组件库
+## ⚡ Quick Start
+1. `cd backend && npm install && npm run dev` to start the API server.
+2. Open `miniprogram/` in WeChat Developer Tools to run the client.
 
 ## 📊 项目进展
 
